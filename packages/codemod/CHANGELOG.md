@@ -1,5 +1,12 @@
 # @ai-sdk/codemod
 
+## 0.0.1-canary.3
+
+### Patch Changes
+
+- 9c9ae64: feat (packages/codemod): Add codemod to replace token usage types.
+- c5ff26d: feat (packages/codemod): Add codemod to remove experimental msg types.
+
 ## 0.0.1-canary.2
 
 ### Patch Changes
